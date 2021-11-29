@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(41, 37, 43);
+}
+
+.header {
+    padding-top: 120px;
+    margin-bottom: 32px;
+}
+
+.main p {
+    text-align: center;
+    color: #ffff;
+    font-size: 23px;
+}
+
+.main div {
+    padding-top: 33px;
+    margin-bottom: 70px;
+}
+
+div span:first-child {
+    padding-left: 34px;
+}
+
+div span {
+    padding-right: 34px;
+}
+
+.footer {
+    padding-bottom: 34px;
+}
+
+.footer p {
+    color: #fff;
+    font-size: 18px;
+}
+
+.kasper {
+    color: rgb(0, 217, 255);
+}
